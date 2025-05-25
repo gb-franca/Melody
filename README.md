@@ -17,19 +17,6 @@ Acesse em: https://gb-franca.github.io/Melody/
 - Interface responsiva e minimalista
 - Ícones modernos via Font Awesome
 
-## 📁 Estrutura do Projeto
-
-```
-Melody
-├── src
-│   ├── index.html        # Página principal
-│   ├── styles
-│   │   └── style.css     # Estilos customizados
-│   └── scripts
-│       └── main.js       # Lógica JavaScript do player
-└── README.md             # Documentação do projeto
-```
-
 ## 🛠️ Tecnologias
 
 - HTML5, CSS3 (Flexbox, custom range)
@@ -37,10 +24,4 @@ Melody
 - [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
 - [Font Awesome](https://fontawesome.com/) para ícones
 
-## 🤝 Contribuição
 
-Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
-
-## 📄 Licença
-
-MIT License. Veja o arquivo LICENSE para mais detalhes.
