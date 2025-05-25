@@ -5,7 +5,7 @@ Melody é um player de música web minimalista inspirado no Spotify, que utiliza
 ## 🚀 Demonstração
 
 Acesse em: https://gb-franca.github.io/Melody/
-> *(Altere para o link real do seu GitHub Pages após publicar!)*
+
 
 ## ✨ Funcionalidades
 
